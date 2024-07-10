@@ -1,1 +1,4 @@
 ejbbjgjrb
+function hello(params) {
+
+}
